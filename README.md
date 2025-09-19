@@ -45,7 +45,7 @@ This page dives into the breakdown of deposit amounts across various customer de
 - European nationality holds the largest deposit segment.
 - VP Marketing and Statistician IV are top occupations for deposits.
 
-![Deposit Analysis](./Deposit%20Analysis.png)
+![Deposit Analysis](https://github.com/Praveenkumar-p-gif/Banking-Analysis/blob/main/Banking%20Analysis/Deposit%20Analysis.png)
 
 ---
 
