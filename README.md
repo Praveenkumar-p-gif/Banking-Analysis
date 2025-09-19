@@ -69,7 +69,7 @@ Analyzes different loan types and distributions across various segments.
 - European customers have the highest loan amounts.
 - Account Coordinators lead in business lending.
 
-![Loan Analysis](./Loan%20Analysis.png)
+![Loan Analysis](https://github.com/Praveenkumar-p-gif/Banking-Analysis/blob/main/Banking%20Analysis/Loan%20Analysis.png)
 
 ---
 
