@@ -21,7 +21,7 @@ Provides a high-level overview of the bank’s financial performance.
 - Joined Bank (Years)
 - Gender (Male/Female)
 
-![Banking Dashboard](./Home%20page.png)
+![Banking Dashboard](https://github.com/Praveenkumar-p-gif/Banking-Analysis/blob/main/Banking%20Analysis/Home%20page.png)
 
 ---
 
